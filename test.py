@@ -1,2 +1,2 @@
 print('Hellow Git&GitHup')
-print('Second Push Git&GiHup')
+print('Second Push Git&GitHup')
